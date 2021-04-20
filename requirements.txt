@@ -77,7 +77,7 @@ plainbox==0.25
 pluggy==0.6.0
 prompt-toolkit==1.0.15
 ptyprocess==0.5.2
-py==1.5.2
+py==1.10.0
 pycparser==2.18
 pycups==1.9.73
 pycurl==7.43.0
