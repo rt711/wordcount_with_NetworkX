@@ -84,7 +84,7 @@ pycurl==7.43.0
 pyflakes==1.5.0
 Pygments==2.7.4
 pygobject==3.24.1
-PyJWT==1.4.2
+PyJWT==2.4.0
 pyparsing==2.1.10
 pysmbc==1.0.15.6
 pytest==3.4.0
